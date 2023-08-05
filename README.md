@@ -1,10 +1,17 @@
-<h1>Serial-Port-Communication-in-Javascript</h1>
-<h2>Step 1</h2>
-<br>
-<p>  Install dependencies</p>
-<br>
-<br>
-```npm i```
-<br>or
-<br>
-```yarn```
+
+# Serial-Port-Communication-in-Javascript (Puskar Roy Githuhb)
+
+
+
+## To Run This Code
+
+1. Install dependencies 
+```bash
+  npm install
+```
+
+
+2. Start index file
+```bash
+  node index.js
+```
