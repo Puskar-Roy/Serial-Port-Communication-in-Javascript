@@ -1,5 +1,6 @@
-# Serial-Port-Communication-in-Javascript
-Step.1 - Install dependencies
+<h1>Serial-Port-Communication-in-Javascript</h1>
+#Step.1
+Install dependencies
 <br>
 <br>
 ```npm i```
