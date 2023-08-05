@@ -1,6 +1,7 @@
 <h1>Serial-Port-Communication-in-Javascript</h1>
-#Step.1
-Install dependencies
+<h2>Step 1</h2>
+<br>
+<p>  Install dependencies</p>
 <br>
 <br>
 ```npm i```
