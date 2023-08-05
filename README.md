@@ -1,3 +1,8 @@
 # Serial-Port-Communication-in-Javascript
-install dependencies
+Step.1 - Install dependencies
+<br>
+<br>
 ```npm i```
+<br>or
+<br>
+```yarn```
